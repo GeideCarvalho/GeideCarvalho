@@ -10,5 +10,5 @@ Eu sou Geide Carvalho, sou programador Front End, atualmente estou aprendendo e 
   
 
 [![Geide stats](https://github-readme-stats.vercel.app/api?username=GeideCarvalho)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeideCarvalho)](https://github.com/anuraghazra/github-readme-stats)
+
